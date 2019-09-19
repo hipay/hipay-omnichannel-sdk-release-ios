@@ -1,1 +1,1 @@
-# hipay-omnichannel-sdk-release-ios
+# HiPay Omnichannel SDK Release iOS
